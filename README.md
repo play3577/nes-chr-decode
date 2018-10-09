@@ -10,7 +10,7 @@ Syntax: [*options*] *input_file* *output_file*
 * `--color0`=*color*
   * What color in the PNG image should correspond to color 0 in the CHR data.
   * *color*: see below.
-  * The default is `000000`.
+  * The default is `000000` (black).
 * `--color1`=*color*
   * What color in the PNG image should correspond to color 1 in the CHR data.
   * *color*: see below.
