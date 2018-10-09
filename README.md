@@ -1,7 +1,9 @@
 # nes-chr-decode
-Converts NES CHR (graphics) data to a PNG file.
+Converts an NES CHR (graphics) data file to a PNG file.
 
 Note: requires the [**PyPNG** module](http://github.com/drj11/pypng).
+
+Hint: my [`nes-chr-encode`](http://github.com/qalle2/nes-chr-encode) does the reverse thing (converts a PNG file to an NES CHR data file).
 
 ## Command line arguments
 Syntax: [*options*] *input_file* *output_file*
